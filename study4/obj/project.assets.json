@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nakwonchoi/dev/LikeLion/LikeLion/LikeLion.csproj",
-      "projectName": "LikeLion",
-      "projectPath": "/Users/nakwonchoi/dev/LikeLion/LikeLion/LikeLion.csproj",
+      "projectUniqueName": "/Users/nakwonchoi/dev/LikeLion/LikeLion/study4/study4.csproj",
+      "projectName": "study4",
+      "projectPath": "/Users/nakwonchoi/dev/LikeLion/LikeLion/study4/study4.csproj",
       "packagesPath": "/Users/nakwonchoi/.nuget/packages/",
-      "outputPath": "/Users/nakwonchoi/dev/LikeLion/LikeLion/obj/",
+      "outputPath": "/Users/nakwonchoi/dev/LikeLion/LikeLion/study4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nakwonchoi/.nuget/NuGet/NuGet.Config"

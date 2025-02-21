@@ -12,9 +12,9 @@ namespace study3
             char rank = 'S';
             string name = "??";
 
-            Console.WriteLine($"hp :{hp}");
+            Console.WriteLine($"hp : {hp}");
             Console.WriteLine($"att : {atk}");
-            Console.WriteLine($"캐릭터 이름 :{name}");
+            Console.WriteLine($"캐릭터 이름 : {name}");
             Console.WriteLine($"등급 : {rank}");
         }
     }
