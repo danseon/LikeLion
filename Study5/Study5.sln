@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study5", "Study5.csproj", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loading", "..\Loading\Loading.csproj", "{0FBAA0E0-38F6-4362-A102-244FE3B04A87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studyReadLine", "..\studyReadLine\studyReadLine.csproj", "{7DC4A160-60D9-45D1-8504-F48B31D6175E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{0FBAA0E0-38F6-4362-A102-244FE3B04A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FBAA0E0-38F6-4362-A102-244FE3B04A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FBAA0E0-38F6-4362-A102-244FE3B04A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC4A160-60D9-45D1-8504-F48B31D6175E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC4A160-60D9-45D1-8504-F48B31D6175E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC4A160-60D9-45D1-8504-F48B31D6175E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC4A160-60D9-45D1-8504-F48B31D6175E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/bin/Debug/net8.0/TodayTask1
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/bin/Debug/net8.0/TodayTask1.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/bin/Debug/net8.0/TodayTask1.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/bin/Debug/net8.0/TodayTask1.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/bin/Debug/net8.0/TodayTask1.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/refint/TodayTask1.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/TodayTask1.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TodayTask1/obj/Debug/net8.0/ref/TodayTask1.dll

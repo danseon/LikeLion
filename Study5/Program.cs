@@ -102,16 +102,16 @@ namespace study5
             // Console.WriteLine(flag);
 
             //int 래퍼 형식의 메서드 활용
-            int num = 123;
+        //     int num = 123;
 
-            string numberAsString = num.ToString();
+        //     string numberAsString = num.ToString();
 
-            //bool 래퍼 형식
-            bool flag = true;
+        //     //bool 래퍼 형식
+        //     bool flag = true;
 
-            string flagAsString = flag.ToString();
+        //     string flagAsString = flag.ToString();
             
-            Console.WriteLine(numberAsString + " " +flagAsString);
+        //     Console.WriteLine(numberAsString + " " +flagAsString);
         }
     }
 }
