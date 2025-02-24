@@ -54,12 +54,14 @@ namespace study6
 
             // Console.WriteLine($"짝수 홀수 판별 : {sum}");
 
-            bool isEqual = false; // 거짓 0
-            int a = 5 , b = 5;
+            // bool isEqual = false; // 거짓 0
+            // int a = 5 , b = 5;
 
-            //관계형 연산자
-            isEqual = (a == b); //a랑 b랑 같은지?
-            Console.WriteLine(isEqual);
+            // //관계형 연산자
+            // isEqual = (a == b); //a랑 b랑 같은지?
+            // Console.WriteLine(isEqual);
+
+            
 
         }
     }
