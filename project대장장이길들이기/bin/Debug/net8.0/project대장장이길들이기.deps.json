@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "project대장장이길들이기/1.0.0": {
+        "runtime": {
+          "project대장장이길들이기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project대장장이길들이기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

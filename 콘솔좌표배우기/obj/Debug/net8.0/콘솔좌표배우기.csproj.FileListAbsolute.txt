@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/bin/Debug/net8.0/콘솔좌표배우기
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/bin/Debug/net8.0/콘솔좌표배우기.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/bin/Debug/net8.0/콘솔좌표배우기.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/bin/Debug/net8.0/콘솔좌표배우기.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/bin/Debug/net8.0/콘솔좌표배우기.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/refint/콘솔좌표배우기.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/콘솔좌표배우기.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/콘솔좌표배우기/obj/Debug/net8.0/ref/콘솔좌표배우기.dll

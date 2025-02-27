@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project대장장이길들이기", "project대장장이길들이기.csproj", "{A649BCFA-1B32-BC40-76AD-11D6AB671BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "모험가키우기", "..\모험가키우기\모험가키우기.csproj", "{942E9716-CE97-4EB4-9533-150CF0483923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A649BCFA-1B32-BC40-76AD-11D6AB671BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A649BCFA-1B32-BC40-76AD-11D6AB671BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A649BCFA-1B32-BC40-76AD-11D6AB671BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A649BCFA-1B32-BC40-76AD-11D6AB671BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942E9716-CE97-4EB4-9533-150CF0483923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942E9716-CE97-4EB4-9533-150CF0483923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942E9716-CE97-4EB4-9533-150CF0483923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942E9716-CE97-4EB4-9533-150CF0483923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725822B6-AD78-4A2B-83FB-DFA9E015CA61}
+	EndGlobalSection
+EndGlobal

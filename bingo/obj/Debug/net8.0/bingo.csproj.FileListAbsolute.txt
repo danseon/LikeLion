@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/bin/Debug/net8.0/bingo
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/bin/Debug/net8.0/bingo.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/bin/Debug/net8.0/bingo.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/bin/Debug/net8.0/bingo.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/bin/Debug/net8.0/bingo.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/refint/bingo.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/bingo.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/bingo/obj/Debug/net8.0/ref/bingo.dll

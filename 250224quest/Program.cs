@@ -85,38 +85,44 @@ namespace quest
             // 나눗셈의 경우 0으로 나누는 상황을 처리하여 에러 메시지를 출력합니다.
             // 결과는 “결과: X” 형식으로 출력합니다.
 
-            int a = 0, b = 0;
-            string cal ;
-            Console.Write("첫 번째 수를 입력하세요");
-            a = int.Parse(Console.ReadLine());
-            Console.Write("연산기호를 입력하세요");
-            cal = Console.ReadLine();
-            Console.Write("두 번째 수를 입력하세요");
-            b = int.Parse(Console.ReadLine());
+            // int a = 0, b = 0;
+            // string cal ;
+            // Console.Write("첫 번째 수를 입력하세요");
+            // a = int.Parse(Console.ReadLine());
+            // Console.Write("연산기호를 입력하세요");
+            // cal = Console.ReadLine();
+            // Console.Write("두 번째 수를 입력하세요");
+            // b = int.Parse(Console.ReadLine());
 
-            if (cal == "+")
-            {
-                Console.WriteLine(a+b);
-            }
-            else if (cal == "-")
-            {
-                Console.WriteLine(a-b);
-            }
-            else if (cal == "*")
-            {
-                Console.WriteLine(a*b);
-            }
-            else if (cal == "/")
-            {               
-                if (a * b == 0)
-                {
-                    Console.Write("error");
-                }
-                else
-                {
-                    Console.WriteLine(a/b);
-                }
-            }
+            // if (cal == "+")
+            // {
+            //     Console.WriteLine(a+b);
+            // }
+            // else if (cal == "-")
+            // {
+            //     Console.WriteLine(a-b);
+            // }
+            // else if (cal == "*")
+            // {
+            //     Console.WriteLine(a*b);
+            // }
+            // else if (cal == "/")
+            // {               
+            //     if (a * b == 0)
+            //     {
+            //         Console.Write("error");
+            //     }
+            //     else
+            //     {
+            //         Console.WriteLine(a/b);
+            //     }
+            // }
+            int a = 0 , b = 0;
+            string s = Console.ReadLine();
+            string[] ss = s.Split(" ");
+            a = int.Parse(ss[0]);
+            b = int.Parse(ss[1]);
+            Console.WriteLine(a+b);
         }
     }
 }
