@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/bin/Debug/net8.0/Study21
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/bin/Debug/net8.0/Study21.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/bin/Debug/net8.0/Study21.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/bin/Debug/net8.0/Study21.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/bin/Debug/net8.0/Study21.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/refint/Study21.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/Study21.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study21/obj/Debug/net8.0/ref/Study21.dll

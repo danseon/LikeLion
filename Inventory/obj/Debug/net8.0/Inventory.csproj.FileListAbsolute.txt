@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/bin/Debug/net8.0/Inventory
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/bin/Debug/net8.0/Inventory.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/bin/Debug/net8.0/Inventory.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/bin/Debug/net8.0/Inventory.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/bin/Debug/net8.0/Inventory.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/refint/Inventory.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/Inventory.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Inventory/obj/Debug/net8.0/ref/Inventory.dll

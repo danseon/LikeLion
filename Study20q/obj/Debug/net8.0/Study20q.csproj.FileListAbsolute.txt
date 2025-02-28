@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/bin/Debug/net8.0/Study20q
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/bin/Debug/net8.0/Study20q.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/bin/Debug/net8.0/Study20q.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/bin/Debug/net8.0/Study20q.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/bin/Debug/net8.0/Study20q.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/refint/Study20q.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/Study20q.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study20q/obj/Debug/net8.0/ref/Study20q.dll

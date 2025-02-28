@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/bin/Debug/net8.0/Study19
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/bin/Debug/net8.0/Study19.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/bin/Debug/net8.0/Study19.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/bin/Debug/net8.0/Study19.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/bin/Debug/net8.0/Study19.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/refint/Study19.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/Study19.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study19/obj/Debug/net8.0/ref/Study19.dll
