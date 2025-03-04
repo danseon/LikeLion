@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/bin/Debug/net8.0/Study24
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/bin/Debug/net8.0/Study24.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/bin/Debug/net8.0/Study24.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/bin/Debug/net8.0/Study24.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/bin/Debug/net8.0/Study24.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/refint/Study24.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/Study24.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study24/obj/Debug/net8.0/ref/Study24.dll
