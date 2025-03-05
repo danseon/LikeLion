@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/bin/Debug/net8.0/Study28
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/bin/Debug/net8.0/Study28.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/bin/Debug/net8.0/Study28.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/bin/Debug/net8.0/Study28.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/bin/Debug/net8.0/Study28.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/refint/Study28.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/Study28.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study28/obj/Debug/net8.0/ref/Study28.dll

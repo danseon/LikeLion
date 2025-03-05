@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/bin/Debug/net8.0/Skillsystemstudy
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/bin/Debug/net8.0/Skillsystemstudy.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/bin/Debug/net8.0/Skillsystemstudy.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/bin/Debug/net8.0/Skillsystemstudy.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/bin/Debug/net8.0/Skillsystemstudy.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/refint/Skillsystemstudy.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/Skillsystemstudy.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Skillsystemstudy/obj/Debug/net8.0/ref/Skillsystemstudy.dll

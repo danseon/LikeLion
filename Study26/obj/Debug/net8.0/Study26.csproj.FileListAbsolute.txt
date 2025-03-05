@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/bin/Debug/net8.0/Study26
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/bin/Debug/net8.0/Study26.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/bin/Debug/net8.0/Study26.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/bin/Debug/net8.0/Study26.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/bin/Debug/net8.0/Study26.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/refint/Study26.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/Study26.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Study26/obj/Debug/net8.0/ref/Study26.dll
