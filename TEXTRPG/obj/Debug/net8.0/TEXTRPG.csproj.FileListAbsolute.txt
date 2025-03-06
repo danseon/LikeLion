@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/bin/Debug/net8.0/TEXTRPG
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/bin/Debug/net8.0/TEXTRPG.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/bin/Debug/net8.0/TEXTRPG.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/bin/Debug/net8.0/TEXTRPG.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/bin/Debug/net8.0/TEXTRPG.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/refint/TEXTRPG.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/TEXTRPG.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG/obj/Debug/net8.0/ref/TEXTRPG.dll
