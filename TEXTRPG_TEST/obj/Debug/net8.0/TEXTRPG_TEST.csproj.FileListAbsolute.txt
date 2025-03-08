@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/bin/Debug/net8.0/TEXTRPG_TEST
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/bin/Debug/net8.0/TEXTRPG_TEST.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/bin/Debug/net8.0/TEXTRPG_TEST.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/bin/Debug/net8.0/TEXTRPG_TEST.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/bin/Debug/net8.0/TEXTRPG_TEST.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/refint/TEXTRPG_TEST.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/TEXTRPG_TEST.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_TEST/obj/Debug/net8.0/ref/TEXTRPG_TEST.dll

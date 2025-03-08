@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/bin/Debug/net8.0/TEXTRPG_practice
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/bin/Debug/net8.0/TEXTRPG_practice.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/bin/Debug/net8.0/TEXTRPG_practice.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/bin/Debug/net8.0/TEXTRPG_practice.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/bin/Debug/net8.0/TEXTRPG_practice.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/refint/TEXTRPG_practice.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/TEXTRPG_practice.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/TEXTRPG_practice/obj/Debug/net8.0/ref/TEXTRPG_practice.dll

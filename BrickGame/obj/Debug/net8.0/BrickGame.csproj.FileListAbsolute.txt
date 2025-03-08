@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/bin/Debug/net8.0/BrickGame
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/bin/Debug/net8.0/BrickGame.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/bin/Debug/net8.0/BrickGame.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/bin/Debug/net8.0/BrickGame.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/bin/Debug/net8.0/BrickGame.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/refint/BrickGame.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/BrickGame.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/BrickGame/obj/Debug/net8.0/ref/BrickGame.dll

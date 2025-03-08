@@ -1,0 +1,15 @@
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/bin/Debug/net8.0/Delegate
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/bin/Debug/net8.0/Delegate.deps.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/bin/Debug/net8.0/Delegate.runtimeconfig.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/bin/Debug/net8.0/Delegate.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/bin/Debug/net8.0/Delegate.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfoInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfo.cs
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.sourcelink.json
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/refint/Delegate.dll
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.pdb
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/Delegate.genruntimeconfig.cache
+/Users/nakwonchoi/dev/LikeLion/LikeLion/Delegate/obj/Debug/net8.0/ref/Delegate.dll
